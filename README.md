@@ -1,4 +1,4 @@
-# Active Directory Home Lab with Security Monitoring
+# Active Directory Home Lab
 
 ## Objective
 
